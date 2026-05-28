@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+aiosqlite
+httpx
+beautifulsoup4
+PyMuPDF
+python-multipart
+python-dateutil
+apscheduler
+python-dotenv
+loguru
